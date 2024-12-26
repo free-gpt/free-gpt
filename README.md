@@ -9,7 +9,7 @@
 
 ### 国内ChatGPT中文版
 
-- https://gpt.programnotes.cn 支持Google,Meta,通义千问,OpenAI等诸多厂商提供的大模型在线使用
+- [中文版ChatGPT,点击使用,支持Google,Meta,通义千问,OpenAI等诸多厂商提供的大模型在线使用](https://gpt.programnotes.cn)
 
 ### AI导航
 
