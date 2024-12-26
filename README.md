@@ -15,6 +15,8 @@
 
 [AI导航站,收集了各种AI神器:视频,音频制作,聊天,写作工具等](https://nav.programnotes.cn)
 
+![AI导航](./ai-nav.png)
+
 ### 更多
 
 国内自研大模型汇总
