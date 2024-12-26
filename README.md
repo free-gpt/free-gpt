@@ -9,7 +9,7 @@
 
 ### 国内ChatGPT中文版
 
-- [中文版ChatGPT,点击使用,支持Google,Meta,通义千问,OpenAI等诸多厂商提供的大模型在线使用](https://gpt.programnotes.cn)
+- [中文版ChatGPT,点击免费使用,无限量,支持Google,Meta,通义千问,OpenAI等诸多厂商提供的大模型在线使用](https://gpt.programnotes.cn)
 
 ### AI导航
 
@@ -18,14 +18,14 @@
 ### 更多
 
 国内自研大模型汇总
-- https://yiyan.baidu.com/ - 文心一言，百度出品
-- https://tongyi.aliyun.com/ - 通义千问，阿里出品
-- https://techday.sensetime.com/ - 商量，商汤科技出品
-- https://tiangong.kunlun.com/ - 天工 AI 助手，天工大模型
-- https://xinghuo.xfyun.cn/ - 讯飞星火认知大模型
-- https://moss.fastnlp.top/ - Moss，复旦团队出品
-- https://www.so.com/zt/invite.html - 360 智脑，360 出品
-- https://github.com/THUDM/ChatGLM-6B - ChatGLM-6B 清华大学唐杰团队开发
+- [文心一言，百度出品](https://yiyan.baidu.com/)
+- [通义千问，阿里出品](https://tongyi.aliyun.com/)
+- [商量，商汤科技出品](https://techday.sensetime.com/)
+- [天工 AI 助手，天工大模型](https://tiangong.kunlun.com/)
+- [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)
+- [Moss，复旦团队出品](https://moss.fastnlp.top/)
+- [360 智脑，360 出品](https://www.so.com/zt/invite.html)
+- [ChatGLM-6B 清华大学唐杰团队开发](https://github.com/THUDM/ChatGLM-6B)
 
 注意事项
 请定期检查链接的有效性及其安全性。
