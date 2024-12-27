@@ -1,0 +1,37 @@
+title: free-gpt
+description: 国内可用的 ChatGPT-4、ChatGPT中文版镜像网站整理
+google_analytics: G-4ZMS4MK5S7
+theme: minima
+#remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-assets
+  - jekyll-paginate
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: auto
+
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #date_format: "%b-%d-%Y"
+
+  # Generate social links in footer.
+  social_links:
+    - { platform: AI导航, user_url: "https://nav.programnotes.cn" }
+    - { platform: gpt, user_url: "https://gpt.programnotes.cn" }
