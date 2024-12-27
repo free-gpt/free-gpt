@@ -8,8 +8,6 @@
 layout: home
 ---
 
-# 在线免费,无限量使用ChatGPT
-
 本站提供国内访问ChatGPT，汇总了多个ChatGPT镜像网站，包括GPT4、AI写作、AI PPT、AI绘图等功能。
 
 ## 什么是镜像网站？
