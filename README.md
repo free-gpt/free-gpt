@@ -19,8 +19,7 @@
 
 ### 更多
 
-国内自研大模型汇总
-
+- [中国大模型列表 Awesome LLMs In China](https://free-gpt.github.io/awesome-LLMs-In-China/)
 - [文心一言，百度出品](https://yiyan.baidu.com/)
 - [通义千问，阿里出品](https://tongyi.aliyun.com/)
 - [商量，商汤科技出品](https://techday.sensetime.com/)
@@ -29,11 +28,8 @@
 - [Moss，复旦团队出品](https://moss.fastnlp.top/)
 - [360 智脑，360 出品](https://www.so.com/zt/invite.html)
 - [ChatGLM-6B 清华大学唐杰团队开发](https://github.com/THUDM/ChatGLM-6B)
-- [中国大模型列表 Awesome LLMs In China](https://free-gpt.github.io/awesome-LLMs-In-China/)
 
 注意事项
 请定期检查链接的有效性及其安全性。
-遵守相关法律法规，合法合规地使用镜像网站。
+遵守相关法律法规，合法合规地使用网站。
 如果发现上述链接存在安全问题或失效，请务必报告给我们，我们会及时更新。
-更新日志
-将记录所有修改和更新，以便用户了解最新信息和变化。
