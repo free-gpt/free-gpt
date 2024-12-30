@@ -20,6 +20,7 @@
 ### 更多
 
 国内自研大模型汇总
+
 - [文心一言，百度出品](https://yiyan.baidu.com/)
 - [通义千问，阿里出品](https://tongyi.aliyun.com/)
 - [商量，商汤科技出品](https://techday.sensetime.com/)
@@ -28,6 +29,7 @@
 - [Moss，复旦团队出品](https://moss.fastnlp.top/)
 - [360 智脑，360 出品](https://www.so.com/zt/invite.html)
 - [ChatGLM-6B 清华大学唐杰团队开发](https://github.com/THUDM/ChatGLM-6B)
+- [中国大模型列表 Awesome LLMs In China](https://free-gpt.github.io/awesome-LLMs-In-China/)
 
 注意事项
 请定期检查链接的有效性及其安全性。
