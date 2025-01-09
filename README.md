@@ -32,6 +32,7 @@
 ### 其他
 
 - [大模型理论基础](https://free-gpt.github.io/llm/)
+- [Gemini Playground,在线体验Gemini多模态大模型,视频,音频流](https://gpt-free.deno.dev/)
 
 注意事项
 请定期检查链接的有效性及其安全性。
