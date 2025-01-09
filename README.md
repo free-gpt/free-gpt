@@ -29,6 +29,10 @@
 - [360 智脑，360 出品](https://www.so.com/zt/invite.html)
 - [ChatGLM-6B 清华大学唐杰团队开发](https://github.com/THUDM/ChatGLM-6B)
 
+### 其他
+
+- [大模型理论基础](https://free-gpt.github.io/llm/)
+
 注意事项
 请定期检查链接的有效性及其安全性。
 遵守相关法律法规，合法合规地使用网站。
