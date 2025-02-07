@@ -28,6 +28,11 @@
 - [Moss，复旦团队出品](https://moss.fastnlp.top/)
 - [360 智脑，360 出品](https://www.so.com/zt/invite.html)
 - [ChatGLM-6B 清华大学唐杰团队开发](https://github.com/THUDM/ChatGLM-6B)
+- [硅基流动提供免费额度,支持Deepseek-R1,Deepseek-v3,通义千问,LLama等大模型](https://cloud.siliconflow.cn/i/eluTiiYw)
+  - 每月免费额度
+  - 支持多种开源模型接入
+  - 支持deepseek,如: deepseek-ai/DeepSeek-R1,deepseek-ai/DeepSeek-V3,Pro/deepseek-ai/DeepSeek-R1等
+  - 注册送2000万token,[点击链接注册](https://cloud.siliconflow.cn/i/eluTiiYw)
 
 ### 其他
 
