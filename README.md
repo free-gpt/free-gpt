@@ -10,6 +10,8 @@
 ### 国内ChatGPT中文版
 
 - [中文版ChatGPT,点击免费使用,无限量,支持Google,Meta,通义千问,OpenAI等诸多厂商提供的大模型在线使用](https://gpt.programnotes.cn)
+- [Google Gemini系列大模型,免费使用,内置Google搜索](https://gemini.programnotes.cn)
+- [用免费的 Gemini 模型实现 Deep Research，不限量、超大杯，感谢 Google 大善人](https://research.u14.app/)
 
 ### AI导航
 
